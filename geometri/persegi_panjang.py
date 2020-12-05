@@ -8,7 +8,7 @@ class PersegiPanjang(BangunRuang):
         self.lebar = lebar
 
     def info(self):
-        print(f"objek dengan class persegipanjang , panjang = {self.panjang} lebar = {self.lebar}")
+        return f"objek dengan class persegipanjang , panjang = {self.panjang} lebar = {self.lebar}"
 
 
     def hitungLuas(self):
