@@ -12,3 +12,7 @@ print("================================================")
 human2 = Segitiga(20,10)
 print(human2.info())
 print(human2.hitungLuas())
+
+
+print("======= inheritance/pewarisan BangunRuang =========")
+
